@@ -4,7 +4,13 @@ This repository contains simple automation scripts written in Python as part of 
 Each script automates a small real-life task using Python's built-in libraries.
 
 ---
+## Tasks Covered
 
+- Extract email addresses from a text file
+- Fetch and save webpage titles using Python
+- Automate investment portfolio summary generation
+
+---
 ## Script 1: Move `.jpg` Files
 
 Moves all `.jpg` files from a source folder to a destination folder using `os` and `shutil`.
