@@ -11,6 +11,7 @@ Moves all `.jpg` files from a source folder to a destination folder using `os` a
 
 **Output Example:**
 Moved: image1.jpg
+
 All .jpg files moved.
 
 ---
@@ -21,8 +22,11 @@ Uses `re` (regex) to extract all valid email addresses from a `.txt` file.
 
 **Output:**
 📧 Emails Found:
+
 jayashree123@gmail.com
+
 hr@company.com
+
 support@site.in
 
 Saved to: `output_emails.txt`
@@ -35,6 +39,7 @@ Fetches a webpage title using `requests` and `BeautifulSoup` and saves it.
 
 **Output:**
 Title: Python (programming language) - Wikipedia
+
 Title saved to 'webpage_title.txt'
 
 ---
